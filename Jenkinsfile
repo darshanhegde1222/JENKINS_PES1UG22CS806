@@ -30,6 +30,6 @@ pipeline {
             
                 echo 'Pipeline Failed'
           
-        }
-    }
+        }
+    }
 }
